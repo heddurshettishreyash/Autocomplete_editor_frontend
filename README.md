@@ -32,7 +32,7 @@ A smart, user-friendly web-based editor that supports **autocomplete**, **syntax
 ## 🧑‍💻 Technologies Used
 
 - **Frontend:** React
-- **Backend :**Spring boot ,Postgress
+- **Backend:** Spring Boot, PostgreSQL  
 - **Editor:** Ace Editor
 - **Deployment:** Render
 
